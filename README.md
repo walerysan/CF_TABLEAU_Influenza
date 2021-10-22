@@ -19,4 +19,4 @@ Finally, I learned how to turn my research hypothesis into a testable *statistic
 
 The second part of the influenza project concentrated on visualizations of the results in Tableau. I created comparison, temporal, spatial, and textual charts. Since the scope of the project required looking for insights to prepare for the next season, I also generated a forecast. 
 
-In Tableau’s dashboard, I produced a report with my findings along with recommendations and video-recorded the insights for the stakeholders.
+In Tableau’s dashboard, I produced a [report](https://public.tableau.com/app/profile/anna.walerys/viz/PreparingforthenextinfluenzaseasonTask2_9forCF/Preparingforfluseason) with my findings along with recommendations and [video-recorded](https://vimeo.com/564428721) the insights for the stakeholders.
